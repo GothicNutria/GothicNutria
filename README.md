@@ -13,8 +13,11 @@ Most of the time, I program for both fun and passion, and I've been self-learnin
 About Me:
 
 🌱 I'm currently learning SQL.
+
 💼 I'm a programming student in my final year of high school.
+
 🎓 I have experience in process automation using C#, JavaScript, PHP with HTML or simply PHP, and Python.
+
 📚 I'm always looking for opportunities to learn and grow, so I'm often exploring new methods that enhance program performance or reduce code length.
 
 Featured Projects:
