@@ -10,7 +10,7 @@ I have experience with HTML, CSS, and JQuery technologies.
 
 Most of the time, I program for both fun and passion, and I've been self-learning for 4 years. However, I've been studying programming in high school for the last two years.
 
-About Me
+About Me:
 
 🌱 I'm currently learning SQL.
 
@@ -20,13 +20,13 @@ About Me
 
 📚 I'm always looking for opportunities to learn and grow, so I'm often exploring new methods that enhance program performance or reduce code length.
 
-Featured Projects
+Featured Projects:
 
 Project 1: A brief description of the project and its accomplishments.
 
 Project 2: Another brief description and achievements.
 
-Skills
+Skills:
 
 Languages: C#, JavaScript, PHP, and Python.
 
@@ -36,7 +36,7 @@ Frameworks: JQuery.
 
 Tools: I use Sublime Text, Intellij Idea, Dev-C++, Eclipse, SharpDevelop, and QT for front-end development.
 
-Contact Me 🌎
+Contact Me 🌎:
 
 [gmail] drgutierrezrocha@gmail.com
 
